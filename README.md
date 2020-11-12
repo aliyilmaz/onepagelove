@@ -17,3 +17,8 @@ It is a repository where free and limited themes on the "onepagelove" site are e
  ![dazzle](https://onepagelove.imgix.net/2018/08/opl-big-6.jpg?fit=crop&fp-y=0&w=1280&min-w=1280&max-h=8192&auto=compress)
  
  [Demo](https://onepagelove.com/dazzle) | [View repository](https://github.com/aliyilmaz/onepagelove/tree/main/themes/dazzle) | [Offical Page](https://onepagelove.com/dazzle) | License: Ask the manufacturer
+
+ 4) #### ristorante
+ ![dazzle](https://onepagelove.imgix.net/2018/05/opl-big-11.jpg?fit=crop&fp-y=0&w=1280&min-w=1280&max-h=8192&auto=compress)
+ 
+ [Demo](https://onepagelove.com/ristorante) | [View repository](https://github.com/aliyilmaz/onepagelove/tree/main/themes/ristorante) | [Offical Page](https://onepagelove.com/ristorante) | [License: Rubik Technologies](https://www.facebook.com/rubiktechnologiesShpk/)

@@ -66,6 +66,7 @@ body{
 .mappa{
 	height: 320px;
 	padding-right: 10px;
+	margin-bottom: 20px;
 }
 
 @media screen and (max-width : 1920px){
